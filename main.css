@@ -1,0 +1,135 @@
+.container{
+    width: 100%;
+    height: 800px;
+    background-color: rgb(189, 189, 251);
+}
+.box{
+    width: 50%;
+    height: 700px;
+    background-color: white;
+    margin-left: 300px;
+}
+.card1{
+    width: 100%;
+    height: 80px;
+    background-color: blue;
+    display: flex;
+    font-size: 25px;
+    color: white;
+}
+.rer{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-weight: 500;
+}
+.rer1{
+    margin-left: 350px;
+    margin-top: 15px;
+    font-weight: 500;
+    font-size: 30px;
+}
+.card2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.rer2{
+    width: 280px;
+    color: grey;
+    height: 1px;
+    border: 1px solid grey;
+    
+}
+.card2 div{
+    color: grey;
+    font-size: 20px;
+}
+.card3{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.rer4{
+    color: grey;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.rer5{
+    font-size: 20px;
+    width: 400px;
+    height: 80px;
+    background-color:rgb(189, 189, 251) ;
+}
+.card3 p{
+    margin-left: 10px;
+}
+
+.rer6{
+    color: grey;
+    margin-left: 570px;
+    font-size: 20px;
+}
+.card4{
+    margin-top: 30px;
+}
+.rer7{
+    width: 400px;
+    height: 80px;
+    background-color: rgb(220, 218, 218);
+    margin-left: 220px;
+}
+.card4 p{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.card5{
+    margin-left: 20px;
+}
+.rer8{
+    color: grey;
+    font-size: 20px;
+}
+.rer9{
+    width: 130px;
+    height: 50px;
+    background-color: rgb(189, 189, 251);
+    font-size: 20px;
+}
+.rer9 p{
+    
+    margin-left: 10px;
+}
+.rer10{
+    width: 300px;
+    height: 60px;
+    background-color: tomato;
+    margin-left: 320px;
+}
+.rer11{
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 40px;
+}
+.card7{
+    width: 600px;
+    margin-top: 30px;
+    margin-left: 20px;
+    height: 1px;
+    border: 1px solid grey;
+}
+.card8{
+    display: flex;
+    
+}
+.rer12{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px    ;
+}
+.rer13{
+    font-size: 20px;
+    color: blue;
+    font-weight: 600;
+    margin-left: 380px;
+    margin-top: 20px;
+}
